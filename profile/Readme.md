@@ -1,4 +1,4 @@
-#🚀 Kocaeli University Space Community 🚀
+#(🚀 Kocaeli University Space Community 🚀)
 ![apply-banner](https://github.com/KouSpace/.github/assets/99260593/e7029da8-3a8a-47d7-bb2d-96050fb96d66)
 
 Place for people who dedicated themself to space and technology ...

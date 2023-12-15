@@ -1,5 +1,6 @@
 #                         🚀 Kocaeli University Space Community 🚀
-![Banner](https://github.com/KouSpace/.github/assets/99260593/df222276-e041-454b-a000-3c0d4012ab17)
+
+![apply-banner](https://github.com/KouSpace/.github/assets/99260593/3c7e436d-defb-4234-b60a-d2b5e127a2ec)
 
 Place for people who dedicated themself to space and technology ...
 

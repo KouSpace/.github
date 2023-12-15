@@ -6,29 +6,30 @@ Place for people who dedicated themself to space and technology ...
 
 * [Çalışmalarımız](#çalışmalarımız)
    * [Dikey İniş](#dikey-inis)
-      * [Magirus](#magirus)
+      * [Magirus](#magirus---2023)
    * [Orta İrtifa](#orta-irtifa)
-      * [Airbender](#airbender)
-      * [Şafak](#şafak)
-      * [Pusula](#pusula)
-      * [Yadigar](#yadigar)
-      * [Yankı](#Yankı)
+      * [Pusula](#pusula---2023)
+      * [Yankı](#yankı---2022)
+      * [Airbender](#airbender---2021)
+      * [Yadigar](#yadigar---2021)
+      * [Şafak](#şafak---2020)
     
 ## Çalışmalarımız
 
 Zart zort cart curt
 
 ## Dikey İniş
-
-## Magirus
+Dik roket indirme yarışı
+## Magirus - 2023
+![IMG_0306](https://github.com/KouSpace/.github/assets/99260593/e8fe6d80-de82-4c29-a4bc-ca6f38e4e6c3)
 
 ## Orta İrtifa
-
+Roket uçurma yarışı
 ## Pusula - 2023
+![Pusula](https://github.com/KouSpace/.github/assets/99260593/69a31718-405b-4948-a6ef-2134a2d4ebd7)
 
 ## Yankı - 2022
-
-![Yanki](https://github.com/KouSpace/.github/assets/99260593/3c924147-921e-4a13-b283-9995e7234eaa)
+![Yanki](https://github.com/KouSpace/.github/assets/99260593/a34edd48-8969-4c2d-a898-4bf6747b3bca)
 
 https://github.com/KouSpace/.github/assets/99260593/6dc2d431-7ca4-41ef-8a76-36af134d31ad
 

@@ -1,1 +1,1 @@
-# .github
+# Kocaeli University Space Community

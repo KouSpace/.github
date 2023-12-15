@@ -1,5 +1,5 @@
 #                         🚀 Kocaeli University Space Community 🚀
-![apply-banner](https://github.com/KouSpace/.github/assets/99260593/e7029da8-3a8a-47d7-bb2d-96050fb96d66)
+![Banner](https://github.com/KouSpace/.github/assets/99260593/df222276-e041-454b-a000-3c0d4012ab17)
 
 Place for people who dedicated themself to space and technology ...
 
@@ -26,7 +26,7 @@ Dik roket indirme yarışı
 ## Orta İrtifa
 Roket uçurma yarışı
 ## Pusula - 2023
-![Pusula](https://github.com/KouSpace/.github/assets/99260593/69a31718-405b-4948-a6ef-2134a2d4ebd7)
+![pusula png](https://github.com/KouSpace/.github/assets/99260593/97fd65cf-8ba1-4035-b166-592dd63930c6)
 
 ## Yankı - 2022
 ![Yanki](https://github.com/KouSpace/.github/assets/99260593/a34edd48-8969-4c2d-a898-4bf6747b3bca)

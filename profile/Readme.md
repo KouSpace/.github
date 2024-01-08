@@ -6,7 +6,7 @@ Place for people who dedicated themself to space and technology ...
 
 
 * [Biz Kimiz?](#biz-kimiz?)
-   * [Dikey İnişli Roket Yarışması](#dikey-inişli-roket-yarışması)
+   * [Dikey İnişli Roket Yarışması](#dikey-inisli-roket-yarismasi)
       * [Magirus](#magirus---2023)
    * [Orta İrtifa Roket Yarışması](#orta-irtifa-roket-yarismasi)
       * [Pusula](#pusula---2023)

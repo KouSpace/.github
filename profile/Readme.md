@@ -5,7 +5,7 @@
 Place for people who dedicated themself to space and technology ...
 
 
-* [Çalışmalarımız](#çalışmalarımız)
+* [Biz Kimiz?](#biz-kimiz?)
    * [Dikey İniş](#dikey-inis)
       * [Magirus](#magirus---2023)
    * [Orta İrtifa](#orta-irtifa)
@@ -15,17 +15,25 @@ Place for people who dedicated themself to space and technology ...
       * [Yadigar](#yadigar---2021)
       * [Şafak](#şafak---2020)
     
-## Çalışmalarımız
+## Biz Kimiz?
 
-Zart zort cart curt
+2019 yılında farklı mühendislik disiplinlerden birkaç uzay ve havacılık meraklısı arkadaşın kurduğu bir takımız. Amacımız ülkemizde ve dünyada yapılan uzay ve havacılıkla ilgili çalışmalara katkı sağlamak ve özellikle bu alanlarda yeni teknolojiler geliştirmektir. Bu amaç için 2019'dan beri yoğun bir tempoyla çalışmalarımıza devam ediyoruz.
 
-## Dikey İniş
-Dik roket indirme yarışı
+ Takımımızı geçtiğimiz yıllarda MBK KOUSPACE, MBK EAGLES ve MBK KUZGUN adlı takımlarımız; ŞAFAK, AIRBENDER, YADİGAR, FIREBENDER , YANKI, PUSULA ve MAGIRUS roketlerimiz ile başarılı bir şekilde temsil etmiş olup çeşitli dereceler elde etmişlerdir
+
+Sadece derece odaklı bir takım olmayıp kendimizi ve çevremizdekileri en çok nasıl geliştirebiliriz diye düşünen bir takımız. Gittiğimiz köy okulunda gönüllü olarak çocuklara robotik kodlama eğitimi vermekte, yaptığımız teknik gezilerle yeni çalışma alanları görme, sosyal sorumluluk projeleriyle ilgilenme, TÜBİTAK ve PLANS gibi yerlere geliştirebileceğimiz projeler yazma, Model Roket ve birçok etkinliğe katılıp kendimizi tanıtmak gibi birçok alanla ilgilenmekteyiz.
+
+Şu an ise biri orta irtifa, biri dikey inişli olmak üzere iki roket üzerine çalışıyoruz. Sahip olduğumuz tutku ve azim ile çalışmalarımıza devam ederek bu alanda başarılı işler yapmaya devam edeceğiz.
+
+
+
+## Dikey İnişli Roket Yarışması
+Dikey İnişli Roket
 ## Magirus - 2023
 ![IMG_0306](https://github.com/KouSpace/.github/assets/99260593/e8fe6d80-de82-4c29-a4bc-ca6f38e4e6c3)
 
-## Orta İrtifa
-Roket uçurma yarışı
+## Orta İrtifa Roket Yarışması
+10.000feet Menzilli Sonda Roketi
 ## Pusula - 2023
 ![pusula png](https://github.com/KouSpace/.github/assets/99260593/97fd65cf-8ba1-4035-b166-592dd63930c6)
 

@@ -6,9 +6,9 @@ Place for people who dedicated themself to space and technology ...
 
 
 * [Biz Kimiz?](#biz-kimiz?)
-   * [Dikey İnişli Roket Yarışması](#dikey-inisli-roket-yarismasi)
+   * [Dikey İnişli Roket Yarışması](#Dikey-İnişli-Roket-Yarışması)
       * [Magirus](#magirus---2023)
-   * [Orta İrtifa Roket Yarışması](#orta-irtifa-roket-yarismasi)
+   * [Orta İrtifa Roket Yarışması](#Orta-İrtifa-Roket-Yarışması)
       * [Pusula](#pusula---2023)
       * [Yankı](#yankı---2022)
       * [Airbender](#airbender---2021)

@@ -30,8 +30,7 @@ Sadece derece odaklı bir takım olmayıp kendimizi ve çevremizdekileri en çok
 ## Dikey İnişli Roket Yarışması
 Dikey İnişli Roket
 ## Magirus - 2023
-![IMG_0306](https://github.com/KouSpace/.github/assets/99260593/e8fe6d80-de82-4c29-a4bc-ca6f38e4e6c3)
-![Magirus](https://github.com/KouSpace/.github/assets/99260593/f1648fc9-24b7-4244-a3b9-0ac7ab5b4568)
+![Magirus](https://github.com/KouSpace/.github/assets/99260593/dfb39c3d-586e-4379-98ab-0e4772bd5caa)
 
 ## Orta İrtifa Roket Yarışması
 10.000feet Menzilli Sonda Roketi
